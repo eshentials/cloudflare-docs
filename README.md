@@ -1,3 +1,9 @@
+Closed #24819 : Network Solutions link is dead
+PR updated the broken external link to Network Solutions in the Domain transfer to Cloudflare Registrar documentation. The original link returned a 410 Gone error, so it has been replaced with the current working Network Solutions support page.
+
+Please note: this contains the fix for Issue #24821 as well, a separate PR has been opened for that. -Eshani
+
+
 # Cloudflare Developer Documentation
 
 Welcome to the open-source repository for all [Cloudflare Developer Documentation](https://developers.cloudflare.com/).
